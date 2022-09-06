@@ -3,6 +3,8 @@ xfce4
 xfce4-panel
 xfce4-session
 xfce4-settings
+xserver-xorg-input-all
+xserver-xorg-core
 xserver-xorg
 xorg
 xubuntu-icon-theme
